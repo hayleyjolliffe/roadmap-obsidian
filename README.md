@@ -8,7 +8,7 @@ Explore how I use the system [here](https://github.com/hayleyjolliffe/roadmap).
 
 1. [Download the vault](https://github.com/hayleyjolliffe/roadmap-obsidian/archive/refs/heads/main.zip)
 2. Unzip the file to your location of choice
-3. In Obsidian, create a new vault using that folder
+3. In Obsidian, select "Open folder as vault" to create a vault from the template
 
 ## Recommended Plugins
 
