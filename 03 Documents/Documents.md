@@ -1,1 +1,0 @@
-> Store any documents and files relevant to your goals, core identity, and roadmap here to allow for internal linking within Obsidian.

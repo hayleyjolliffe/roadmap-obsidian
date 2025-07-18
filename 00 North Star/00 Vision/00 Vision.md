@@ -1,0 +1,1 @@
+> Use this folder to store files/images as a guiding vision board.
